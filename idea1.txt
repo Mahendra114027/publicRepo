@@ -1,0 +1,10 @@
+Air Crash Beacon App To be used to locate air crashes (best example is to locate missing planes like MH370) or missing people trapped.
+The app shall be triggered by severe and continuous vibrations like a plane crash.
+Then the app emits signal/pulse that can be detected by scanners. 
+And as battery life for phones continues to lengthen, this app can work for days if not weeks. 
+The usage is based on crowd sourcing where if 10 out of 250 passengers on the plane use the app, 
+	search and rescue operation will have an easier way to detect 10 beacons rather than one 
+	(even if some phones are destroyed in the crash, some might survived).
+So if the pilots and 8 crews use this app, you already got 10 beacons!
+Knowing that time is critical when saving lives and search and rescue operations can cost millions of dollars, this app can save both lives and money.
+The only issue is that you have to keep your phone in waterproof covers.
