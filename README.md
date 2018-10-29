@@ -1,2 +1,2 @@
-# publicRepo
-Aany new idea is invited.
+# PublicRepo 
+Any new idea is invited.
