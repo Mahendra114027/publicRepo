@@ -1,4 +1,4 @@
 An app which allows us to: 
-send a message to a group of people asking them to sing a song or part of a song into their mobile phone; 
+Send a message to a group of people asking them to sing a song or part of a song into their mobile phone; 
 which will be recorded and saved and then mix the submissions so collected into a choral recording to which one can 
 add various sound effects and then send the finished result to somebody else.  Or post it to their social media.
