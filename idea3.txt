@@ -1,2 +1,4 @@
 Automatic toll payment system :
-An app for automated toll payment. Motion sensors detects vehicles registration number and make payment automatically through its own payment gateway. A great time saver & traffic solution.
+An app for automated toll payment. 
+Motion sensors detects vehicles registration number and make payment automatically through its own payment gateway. 
+A great time saver & traffic solution. This can reduce the cost in maintaining ground force at the toll in long run.
