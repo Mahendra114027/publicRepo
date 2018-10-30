@@ -1,2 +1,2 @@
-Automatic tall payment system :
-An app for automated tall payment. Motion sensors detects vehicles registration number and make payment automatically through its own payment gateway. A great time saver & traffic solution.
+Automatic toll payment system :
+An app for automated toll payment. Motion sensors detects vehicles registration number and make payment automatically through its own payment gateway. A great time saver & traffic solution.
